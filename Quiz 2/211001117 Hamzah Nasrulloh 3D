@@ -1,0 +1,74 @@
+QUIZ 2
+Nama : Hamzah Nasrulloh
+NIM : 211001117
+Kecerdasan Buatan (AI) 3D
+
+Soal:
+1. Jelaskan arti angka dari versi python di bawah ini
+     
+2. Buatlah tutorial setiap fugsi pada tools vs-code
+3. Sebutkan dan jelaskan ekstension itu apa, dan contohnya dan penerapannya(didalam vs code)
+
+Jawab:
+1. Jelaskan arti angka dari versi python di bawah ini
+     
+Python. Hadir selama 30 tahun, Python menjadi salah satu bahasa pemograman terpopuler yang paling banyak digunakan di dunia saat ini. Dalam rangka perayaan hari jadi ke-30 tahun, Python merilis versi terbarunya yaitu Python 3.10.0 Versi baru ini menghadirkan berbagai perubahan dan fitur menarik yang bisa digunakan.
+Fitur terbaru seperti: 
+1.	Mendeteksi dan mendekonstruksi struktur berbeda di dalam data 
+2. Menggunakan berbagai jenis pola (pattern) 
+3. Mencocokkan literal pattern
+4. Dll
+Pada versi sebelumnya, ketika terdapat error dalam code yang kita kerjakan, error message hanya menampilkan penjelasan error secara general dan nomor line yang seringkali tidak akurat. Namun dengan versi 3.10.0, pengguna dapat melihat deskripsi error yang lebih spesifik, posisi error dan nomor line yang akurat. 
+
+
+
+
+
+
+2. Buatlah tutorial setiap fugsi pada tools vs-code
+
+Berikut ini beberapa fitur Visual Code Studio
+
+1. Basic Editing
+Sesuai fungsinya sebagai code editor, kemampuan Visual Code Studio untuk coding tidak perlu diragukan lagi. Ia punya semua yang dibutuhkan. Mulai dari Keyboard Shortcuts, Multiple Selection, dan Column Selection.
+ 
+Bahkan, Visual Code juga menambahkan fitur Auto Save dan Hot Exit. Keduanya berfungsi untuk menyimpan file secara otomatis. 
+2. IntelliSense
+IntelliSense adalah fitur Visual Studio yang dapat memudahkan proses coding. yakni menyarankan keseluruhan kata berdasarkan apa yang Anda ketik.
+ 
+Nah, IntelliSense tersedia secara default untuk JavaScript, TypeScript, JSON, HTML, dan CSS.  Dan dapat menambahkan IntelliSense untuk bahasa pemrograman lain lewat Extension Marketplace.
+3. Debugging
+Fitur Visual Code adalah Debugging. Fitur ini berguna untuk memudahkan dalam mengedit, meng-compile, dan mengeksekusi kode berulang kali (looping).
+ 
+Secara default, Visual Studio menyediakan fitur Debugging untuk Node.js. Namun, Debugging untuk bahasa pemrograman lain tetap dapat Anda unduh melalui Extension Marketplace.
+4. Extension Marketplace
+Extension Marketplace Dengan Extension, Anda bisa dengan mudah menginstall tools, debuggers, bahkan bahasa pemrograman tambahan.
+ 
+Dengan begitu, proses website development  jadi lebih cepat. 
+5. Github Integration
+Fitur ini integrasi Github, platform manajemen project terpopuler di dunia. Di sini, dapat berbagi code dan berkolaborasi dengan rekan kerja, tanpa perlu berpindah software.
+ 
+Cara menggunakannya juga sangat mudah. hanya perlu menyiapkan akun Github, kemudian menginstall Github Pull Request and Issues melalui Extension Marketplace.
+
+3. Sebutkan dan jelaskan ekstension itu apa, dan contohnya dan penerapannya(didalam vs code)
+
+•	Jelaskan Ekstension itu apa?
+VS Code memiliki marketplace, dan berisi kumpulan plugin yang dapat diinstal ke teks editor untuk membuatnya lebih powerfull. Kita dapat membuka marketplace dengan memilih opsi Ekstensi di menu Tampilan atau cukup tekan shift + cmd + X.
+
+•	Sebutkan dan contohnya dan contoh penerapannya dalan Visual Studio Code
+
+01. Live Server
+Ini memungkinkan untuk memuat ulang halaman web secara otomatis ketika  mengubah kode di VS Code.
+https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+
+ 
+Setelah Live Server diinstal, dapat mengklik kanan pada file html dan dapat melihat opsi Buka dengan Live Server [Alt + L + Q].
+
+02. Prettier (Code Formatter)
+Prettier adalah penata format kode. Prettier mendorong gaya penulisan kode yang konsisten dengan mem-parsing kode  dan mencetaknya kembali dengan aturannya sendiri. Ini adalah alat penting yang memungkinkan kamu untuk mencapai kode yang diformat dengan benar tanpa upaya dari pengembang. Prettier hadir dengan default yang masuk akal, tetapi dapat memberikan file konfigurasi di root proyek untuk menetapkan standar kamu sendiri, seperti panjang garis, jumlah tab / spasi, dan banyak lagi.
+https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode 
+
+
+	07. VSCode Icons
+Ini akan memberikan ikon di sebelah nama file dalam tampilan hierarki berdasarkan ekstensi file. Ini membuatnya lebih mudah untuk mengidentifikasi file Anda secara sekilas.
+https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons 
