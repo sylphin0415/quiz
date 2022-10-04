@@ -1,0 +1,56 @@
+                                                                            QUIZ 1
+Nama : Hamzah Nasrulloh
+NIM : 211001117
+Kecerdasan Buatan (AI) 3D
+
+Soal:
+1. Tutorial install http://www.flowgorithm.org/
+2. Tutorial mebuat hello world menggunakan flowgorithm
+
+Jawaban:
+1. Tutorial install http://www.flowgorithm.org/
+
+Caranya sebagai berikut.
+1.	Masuk ke situs mereka yang beralamatkan di http://www.flowgorithm.org/ dan klik menu Download yang ada di bagian atas.
+ 
+menu download
+2.	Di halaman Download, pilih versi program yang sesuai dengan sistem yang teman-teman gunakan saat ini. Perhatikan juga versi Windows yang didukung. Karena saya menggunakan Windows 10 64-bit, maka saya memilih tombol Windows 64-bit.
+ 
+opsi versi download
+Komputer akan mulai men-download file dengan format Flowgorithm-versi-64-Setup.zip.
+3.	Setelah usai terunduh, ekstrak file zip tersebut dan klik Setup untuk menjalankan instalasi.
+ 
+file setup hasil extract
+4.	Ikuti proses instalasi hingga selesai. Tidak ada yang perlu di-setting di bagian ini. Hanya tinggal memilih I Agree dan mengklik tombol-tombol Next.
+5.	Software Flowgorithm kini sudah tuntas terinstall di Windows 10.
+____________________________________________________________________________________________
+2. Tutorial mebuat hello world menggunakan flowgorithm
+Berikut langkah-langkahnya.
+1.	Jalankan software Flowgorithm. Kita akan mendapat tampilan awal seperti di bawah ini.
+ 
+tampilan awal flowgorithm
+2.	Klik menu Tools – Layout Windows. Pilih Code & Console.
+ 
+layout program
+Sebenarnya teman-teman bebas memilih tipe layout yang mana saja.
+3.	Pada jendela Source Code Viewer, klik tanda panah ke bawah (perhatikan gambar), lalu klik Pascal.
+ 
+source code viewer
+4.	Perhatikan flowchart dasar yang sudah disiapkan. Ada simbol berlabel Main (awal program) dan End (akhir program) di sana, dihubungkan oleh sebuah garis bertanda panah berwarna hitam.
+ 
+flowchart dasar
+Klik pada garis panah tersebut, lalu pilih simbol Output. Otomatis simbol Output akan ditambahkan di antara simbol Main dan End sebelumnya.
+ 
+menambahkan simbol output
+ 
+flowchart setelah ditambahkan output
+Secara flowchart, ini berarti kita menambahkan perintah output di antara awal dan akhir program.
+5.	Dobel klik pada simbol Output, lalu ketikkan “Hello World” (termasuk tanda petik ganda), dan klik tombol OK.
+ 
+menampilkan tulisan hello world
+Pada langkah ini, kita menentukan apa yang hendak di-output-kan oleh flowchart ke layar. Yaitu tulisan “Hello World”.
+6.	Untuk melihat hasilnya, perhatikan jendela Console. Klik pada ikon panah hijau. Tulisan “Hello World” akan otomatis muncul di sana.
+ 
+hasil hello world di console
+7.	Terakhir, perhatikan jendela Source Code Viewer. Flowchart Hello World yang baru saja kita buat ternyata sudah auto dijadikan source code dalam bahasa Pascal oleh Flowgorithm. Asyik, kan?
+Apakah bisa dijalankan di Free Pascal Compiler? Tentu saja bisa. Kalau tidak percaya, simpan saja source code yang dihasilkan oleh Flowgorithm dengan file berekstensi PAS, buka file tersebut dengan mengugnakan Free Pascal Compiler, dan jalankan.
